@@ -31,3 +31,13 @@
 
 en:
   hello: "Hello world"
+ja:
+  activerecord:
+    models:
+      user: ユーザー
+    attributes:
+      user:
+        title: タイトル
+        start: 開始日
+        end: 終了日
+ 
